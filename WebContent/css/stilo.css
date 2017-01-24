@@ -1,0 +1,34 @@
+body {
+	color: black; background - color : aliceblue;
+	align-items: center;
+	height: auto;
+	width: auto;
+}
+
+.divLogin {
+	background-color: azure;
+	color: black;
+    margin-left: 15%;
+}
+
+.form-horizontal {
+	color: black;
+	align-items: center;
+    margin-left: 15%;
+}
+
+.Div {
+	margin: 100px;
+	height: 500px;
+    margin-left: 15%;
+}
+
+.page-header {
+	width: 100px;
+	height: 30px;
+	margin-top: 15%;
+    margin-left: 15%;
+	background-color: azure;
+}
+
+	
